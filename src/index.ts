@@ -139,8 +139,7 @@ app.get('/',(req:any,res:any)=>{
 
 //IPv4: ? 137.59.220.68
 
-//client id  : 22182420256-bcvlntc1s77g9ohul3p3ef4sghk51bms.apps.googleusercontent.com
-//client secret : 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
+//
 
 
 
